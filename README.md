@@ -21,5 +21,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c#,php,laravel,js,html,css,mysql,git,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=csharp,java,react,vue3,php,laravel,js,html,css,mysql,git,docker,kubernetes" />
 </p>
