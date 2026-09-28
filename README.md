@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harena RAJAONA</h1>
 
 <p align="center">
-  <a href="https://github.com/HarenaRaj"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+about+web+and+mobile;Always+learning+new+things" /></a>
+  <a href="https://github.com/HarenaRaj"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Senior+.Net+Developer;Passionate+about+web+and+mobile;Always+learning+new+things" /></a>
 </p>
 
 <p align="center">
