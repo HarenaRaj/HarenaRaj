@@ -14,6 +14,7 @@
 ## ⚙️ GitHub Analytics
 
 <p align="center">
+  <img height="170" src="./profile/top-langs.svg" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarenaRaj&layout=compact&theme=github_dark" />
   <img height="170" src="https://streak-stats.demolab.com?user=HarenaRaj&theme=github-dark-blue" />
 </p>
