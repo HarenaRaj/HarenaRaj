@@ -5,12 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/harena-rajaona-4210a4201">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/harimisaharenasoa.rajaona">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+  <a href="https://haren-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/harena-rajaona-4210a4201"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://facebook.com/harimisaharenasoa.rajaona"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ## ⚙️ GitHub Analytics
