@@ -17,7 +17,7 @@
 
 <p align="center">
   <img height="170" src="./profile/top-langs.svg" />
-  <img height="170" src="https://streak-stats.demolab.com?user=HarenaRaj&theme=github-dark-blue" />
+  <img height="170" src="https://streak-stats.demolab.com?user=HarenaRaj&theme=github-dark-blue&v=2" />
 </p>
 
 
