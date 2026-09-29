@@ -16,8 +16,8 @@
 ## ⚙️ GitHub Analytics
 
 <p align="center">
-  <img height="180" src="./profile/top-langs.svg" />
-  <img height="170" src="https://streak-stats.demolab.com?user=HarenaRaj&theme=github-dark-blue&v=2" />
+  <img height="170" src="./profile/top-langs.svg" />
+  <img height="160" src="https://streak-stats.demolab.com?user=HarenaRaj&theme=github-dark-blue&v=2" />
 </p>
 
 
