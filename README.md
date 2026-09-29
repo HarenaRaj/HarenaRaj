@@ -17,11 +17,11 @@
 
 <p align="center">
   <img height="170" src="./profile/top-langs.svg" />
-  
+  <img height="170" src="https://streak-stats.demolab.com?user=HarenaRaj&theme=github-dark-blue" />
 </p>
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,vuejs,symfony,js,html,css,mysql,postgres,sqlite,git,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,vuejs,symfony,js,ts,html,css,mysql,postgres,sqlite,git,docker,kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" />
 </p>
