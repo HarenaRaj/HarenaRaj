@@ -22,6 +22,6 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,vuejs,symfony,js,ts,html,css,mysql,postgres,sqlite,git,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,vuejs,symfony,js,ts,html,css,mysql,postgres,git,docker,kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" />
 </p>
